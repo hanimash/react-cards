@@ -4,6 +4,8 @@ This project is a simple App that use some javascript libraries and minaly React
 - react-dom
 - react-router-dom
 
+to change the cards content just edit
+**[src/data/cards.js](https://github.com/hanimash/react-cards/blob/master/src/data/cards.js)**
 
 Greetings HANI
 hani.mashkawi@gmail.com
