@@ -1,0 +1,52 @@
+.Card{
+    margin:auto;
+    box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.4);
+}
+.cardNavbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 10px;
+    height: 40px;
+}
+.cardNavbar>.spacer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 4;
+    padding: 15px;
+}
+.cardNavbar>.cardNavbarPoints{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 5;
+}
+.cardNavbar>.cardNavbarPoints>.point{
+    width: 10px;
+    height: 10px;
+    background: gray;
+    border-radius: 50%;
+    margin: 15px;
+}
+.orange{
+    background: coral !important;
+}
+.cardNavbar>.cardNavbarLinkBox{
+    flex: 2;
+}
+.cardNavbar>.cardNavbarLinkBox>.link{
+    text-decoration: none;
+    text-transform: uppercase;
+    text-shadow: 2px 3px 5px rgba(0, 0, 0, 0.6);
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #369;
+}
+.cardNavbar>.cardNavbarLinkBox>.link:hover{
+    color: #366;
+    text-decoration: underline;
+}
+.cardNavbar>.cardNavbarLinkBox>.startLink{
+    align-self: flex-end;
+}
