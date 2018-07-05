@@ -1,3 +1,16 @@
+# react-cards
+This project is a simple App that use some javascript libraries and minaly React Library:
+- react
+- react-dom
+- react-router-dom
+
+
+Greetings HANI
+hani.mashkawi@gmail.com
+______________________________
+
+> - THE INFORMATION BELOW WAS AUTOMATICALLY ADDED FROM Create-React-App
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
